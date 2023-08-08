@@ -66,7 +66,7 @@ li span {
   border-radius: 8px;
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 900px) {
   .container {
     width: 100%;
     height: 100vh;
@@ -203,7 +203,7 @@ li span {
   width: 100%;
 }
 /* media queries */
-@media (max-width: 500px) {
+@media (max-width: 900px) {
   .hero {
     display: flex;
     flex-direction: column;
@@ -290,7 +290,7 @@ li span {
   padding-left: 1rem;
 }
 .wrapper {
-  height: 500px;
+  height: 900pxg;
 }
 .line-wrapper {
   display: flex;
@@ -303,7 +303,7 @@ li span {
   width: 80%;
 }
 /* media queries */
-@media (max-width: 500px) {
+@media (max-width: 900px) {
   .second-main {
     /* border: 2px solid red; */
     width: 100%;
@@ -334,7 +334,7 @@ li span {
   line-height: 45.7px;
 }
 /* media queries */
-@media (max-width: 500px) {
+@media (max-width: 900px) {
   .third-main h1{
     line-height: 1.2;
   }
@@ -395,7 +395,7 @@ li span {
   font-weight: 600;
 }
 /* media queries */
-@media (max-width: 500px){
+@media (max-width: 900px){
 .secondWrapper{
   /* border: 2px solid red; */
   padding: 1rem;
@@ -445,14 +445,14 @@ li span {
   width: 100%;
 }
 /* media queries */
-@media (max-width: 500px){
+@media (max-width: 900pxg){
   .mini-wrapper{
     padding: 0 0 16px 16px;
     margin-top: 51rem;
     display: flex;
     flex-direction: column-reverse;
     text-align: center;
-    /* height: 500px; */
+    /* height: 900pxg; */
   }
   .mini-wrapper-text{
     width: 100%;
@@ -493,7 +493,7 @@ li span {
   padding-right: 4rem;
 }
 /* media queries */
-@media (max-width: 500px){
+@media (max-width: 900pxg){
   .fourth-main{
     padding:10px 0 16px 16px;
     display: flex;
@@ -542,13 +542,13 @@ li span {
   font-size: 20px;
 }
 /* media queries */
-@media (max-width: 500px){
+@media (max-width: 900pxg){
   .fifth-main{
     padding: 10px 0 16px 16px;
     display: flex;
     flex-direction: column-reverse;
     text-align: center;
-    /* height: 500px; */
+    /* height: 900pxg; */
   }
   .fifth-main-image{
     width: 100%;
@@ -590,7 +590,7 @@ li span {
   font-size: 20px;
 }
 /* media queries */
-@media (max-width: 500px){
+@media (max-width: 900pxg){
   .sixth-main{
     padding:10px 0 16px 16px;
     display: flex;
@@ -628,7 +628,7 @@ li span {
   font-size: 20px;
 }
 /* media queries */
-@media (max-width: 500px){
+@media (max-width: 900pxg){
   .seventh-main{
     padding:10px 0 16px 16px;
     text-align: center; 
@@ -660,7 +660,7 @@ li span {
 .parentDiv img {
   width: 50%;
 }
-@media (max-width: 500px){
+@media (max-width: 900pxg){
   .parentDiv{
     display: flex;
     flex-direction: column;
