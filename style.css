@@ -290,7 +290,7 @@ li span {
   padding-left: 1rem;
 }
 .wrapper {
-  height: 900pxg;
+  height: 900px;
 }
 .line-wrapper {
   display: flex;
@@ -445,14 +445,14 @@ li span {
   width: 100%;
 }
 /* media queries */
-@media (max-width: 900pxg){
+@media (max-width: 900px){
   .mini-wrapper{
     padding: 0 0 16px 16px;
     margin-top: 51rem;
     display: flex;
     flex-direction: column-reverse;
     text-align: center;
-    /* height: 900pxg; */
+    /* height: 900px; */
   }
   .mini-wrapper-text{
     width: 100%;
@@ -493,7 +493,7 @@ li span {
   padding-right: 4rem;
 }
 /* media queries */
-@media (max-width: 900pxg){
+@media (max-width: 900px){
   .fourth-main{
     padding:10px 0 16px 16px;
     display: flex;
@@ -542,13 +542,13 @@ li span {
   font-size: 20px;
 }
 /* media queries */
-@media (max-width: 900pxg){
+@media (max-width: 900px){
   .fifth-main{
     padding: 10px 0 16px 16px;
     display: flex;
     flex-direction: column-reverse;
     text-align: center;
-    /* height: 900pxg; */
+    /* height: 900px; */
   }
   .fifth-main-image{
     width: 100%;
@@ -590,7 +590,7 @@ li span {
   font-size: 20px;
 }
 /* media queries */
-@media (max-width: 900pxg){
+@media (max-width: 900px){
   .sixth-main{
     padding:10px 0 16px 16px;
     display: flex;
@@ -628,7 +628,7 @@ li span {
   font-size: 20px;
 }
 /* media queries */
-@media (max-width: 900pxg){
+@media (max-width: 900px){
   .seventh-main{
     padding:10px 0 16px 16px;
     text-align: center; 
@@ -660,7 +660,7 @@ li span {
 .parentDiv img {
   width: 50%;
 }
-@media (max-width: 900pxg){
+@media (max-width: 900px){
   .parentDiv{
     display: flex;
     flex-direction: column;
